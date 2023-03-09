@@ -17,7 +17,7 @@
  </div>
  
  ### Main skills:
-![Python](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=0D1117)&nbsp; 
